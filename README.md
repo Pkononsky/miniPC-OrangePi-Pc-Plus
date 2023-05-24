@@ -13,6 +13,7 @@
 - no keyboard
 - no good design
 - no instruction on how and where to solder the wires (if you really need it (for some unexplainable reasons), then you are already smart enough to figure out how to assemble it)
+
 why not just use a cell phone? 🤔🤔🤔
 
 MiniPC V1-alpha
