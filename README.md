@@ -9,9 +9,9 @@
 7) Small mouse motherboard (i have used this: Oklick 600M)
 8) 2 buttons from ^
 
-no way to put wires properly, this is one way assembly with super glue
-no keyboard
-no good design
+- no way to put wires properly, this is one way assembly with super glue
+- no keyboard
+- no good design
 
 why not just use a cell phone? 🤔🤔🤔
 
